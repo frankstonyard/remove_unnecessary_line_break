@@ -3,5 +3,7 @@ This code can remove unnecessary line breaks from the content and stores the pro
 Put and save your unprocessed note in 'note.txt'
 
 Usage:
+
 pip install pyperclip
+
 python rmbreak.py
