@@ -1,4 +1,4 @@
-This code can remove unnecessary line breaks from the content and stores the processed text in both the clipboard and a new document.
+This code can remove unnecessary line breaks from the content and stores the processed text in both clipboard and a new document.
 
 Put and save the unprocessed note in 'note.txt'
 
